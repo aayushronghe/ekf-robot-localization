@@ -1,0 +1,3 @@
+GPS RMSE: 1.3720
+EKF RMSE: 0.3987
+Improvement (%): 70.94
