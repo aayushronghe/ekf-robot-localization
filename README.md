@@ -223,4 +223,4 @@ These principles form the backbone of modern autonomy stacks used in:
 **Aayush Ronghe**  
 B.E. Electronics & Communication Engineering  
 Deep Learning Engineer  
-Aspiring Robotics Autonomy Engineer  
+ 
